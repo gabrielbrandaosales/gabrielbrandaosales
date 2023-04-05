@@ -22,7 +22,7 @@
   <img align="center" alt="Brandao-NextJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="40">
 </div>
   
-  ![Snake animation](https://github.com/FernandoBrino/FernandoBrino/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FernandoBrino/gabrielbrandaosales/blob/output/github-contribution-grid-snake.svg)
   
 <div> 
   <h2>Social Medias</h2>
