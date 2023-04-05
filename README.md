@@ -22,8 +22,6 @@
   <img align="center" alt="Brandao-NextJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="40">
 </div>
   
- #
-  
 <div> 
   <h2>Social Medias</h2>
   <a href = "mailto:gabrielbrandaosales@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
