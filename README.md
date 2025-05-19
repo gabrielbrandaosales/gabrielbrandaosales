@@ -1,7 +1,7 @@
 ### Hello, I'm Gabriel Brandão
 
-- 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning Next.js and .NET 6
+- 🔭 I’m currently working with front-end & back-end
+- 🌱 I’m currently learning Nest.js & Docker
 - 📫 How to reach me: gabrielbrandaosales@hotmail.com
 
 <div align="center">
